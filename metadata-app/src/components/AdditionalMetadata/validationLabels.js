@@ -1,0 +1,16 @@
+export default {
+  title: 'Title',
+  contactPoint: 'Contact Name',
+  identifier: 'Unique ID',
+  contactEmail: 'Contact Email',
+  description: 'Description',
+  publisher: 'Publisher',
+  accessLevel: 'Public Access Level',
+  dataQuality: 'Data Quality',
+  rights: 'Rights',
+  spatial: 'Spatial',
+  license: 'License',
+  temporal: 'Temporal',
+  release_date: 'Release Date',
+  accrualPeriodicityOther: 'Data Publishing Frequency',
+};
